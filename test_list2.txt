@@ -1,0 +1,6 @@
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test1.txt
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test2.txt
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test3.txt
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test4.txt
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test5.txt
+https://github.com/CPEN-221/f17-mp2-shell-go/raw/master/test6.txt
