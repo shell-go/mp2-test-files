@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test3.txt
 https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test4.txt
 https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test5.txt
 https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test6.txt
+https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test5.txt
+https://raw.githubusercontent.com/shell-go/mp2-test-files/master/test6.txt
